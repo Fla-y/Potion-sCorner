@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: f6db4cecc25374046b80a914cbcc1cda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7366689354375944418
+    second: Rustic wizard shop bed_0
+  - first:
+      213: 6431679579676626246
+    second: Rustic wizard shop bed_1
+  - first:
+      213: 6309731315459088397
+    second: Rustic wizard shop bed_2
+  - first:
+      213: -6128374234127537849
+    second: Rustic wizard shop bed_3
+  - first:
+      213: -3323787600059282451
+    second: Rustic wizard shop bed_4
+  - first:
+      213: -8816057936284305298
+    second: Rustic wizard shop bed_5
+  - first:
+      213: -5909828362679474161
+    second: Rustic wizard shop bed_6
+  - first:
+      213: 2124975626226792459
+    second: Rustic wizard shop bed_7
+  - first:
+      213: -6321262613948839981
+    second: Rustic wizard shop bed_8
+  - first:
+      213: -4845404000459247644
+    second: Rustic wizard shop bed_9
+  - first:
+      213: -5761817223024701479
+    second: Rustic wizard shop bed_10
+  - first:
+      213: -2680116509759316693
+    second: Rustic wizard shop bed_11
+  - first:
+      213: 8591167865464533944
+    second: Rustic wizard shop bed_12
+  - first:
+      213: -7563009398402020470
+    second: Rustic wizard shop bed_13
+  - first:
+      213: 2750552622360348675
+    second: Rustic wizard shop bed_14
+  - first:
+      213: -1138235463797494738
+    second: Rustic wizard shop bed_15
+  - first:
+      213: -5971586551580474966
+    second: Rustic wizard shop bed_16
+  - first:
+      213: -8507165689407117415
+    second: Rustic wizard shop bed_17
+  - first:
+      213: 5151676814212367383
+    second: Rustic wizard shop bed_18
+  - first:
+      213: 4995122197515148225
+    second: Rustic wizard shop bed_19
+  - first:
+      213: -8730585293059380419
+    second: Rustic wizard shop bed_20
+  - first:
+      213: 7869772693197746579
+    second: Rustic wizard shop bed_21
+  - first:
+      213: 3492908211120333449
+    second: Rustic wizard shop bed_22
+  - first:
+      213: -7257722891418222182
+    second: Rustic wizard shop bed_23
+  - first:
+      213: 6092782209014976264
+    second: Rustic wizard shop bed_24
+  - first:
+      213: -7688080366903224558
+    second: Rustic wizard shop bed_25
+  - first:
+      213: 6407460340739882159
+    second: Rustic wizard shop bed_26
+  - first:
+      213: -4694385700841460769
+    second: Rustic wizard shop bed_27
+  - first:
+      213: 6293295289274221439
+    second: Rustic wizard shop bed_28
+  - first:
+      213: -7629483924888672363
+    second: Rustic wizard shop bed_29
+  - first:
+      213: 6205175096365446409
+    second: Rustic wizard shop bed_30
+  - first:
+      213: -6219173432552426598
+    second: Rustic wizard shop bed_31
+  - first:
+      213: 722925164879285092
+    second: Rustic wizard shop bed_32
+  - first:
+      213: 8052585935402425461
+    second: Rustic wizard shop bed_33
+  - first:
+      213: -357378335099293915
+    second: Rustic wizard shop bed_34
+  - first:
+      213: 2028311922917160701
+    second: Rustic wizard shop bed_35
+  - first:
+      213: -5947485197547477032
+    second: Rustic wizard shop bed_36
+  - first:
+      213: -6002072632754144499
+    second: Rustic wizard shop bed_37
+  - first:
+      213: 936362674488979276
+    second: Rustic wizard shop bed_38
+  - first:
+      213: 3280510609158985676
+    second: Rustic wizard shop bed_39
+  - first:
+      213: -152168049129918095
+    second: Rustic wizard shop bed_40
+  - first:
+      213: -7410382804555530667
+    second: Rustic wizard shop bed_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1628
+        width: 108
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1725c5001344c990800000000000000
+      internalID: -7366689354375944418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1644
+        width: 156
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d42cf408ae14950800000000000000
+      internalID: 6431679579676626246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1690
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e816733ba09750800000000000000
+      internalID: 6309731315459088397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1662
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749eb248a14a3faa0800000000000000
+      internalID: -6128374234127537849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1636
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4e95b9c88fd1d0800000000000000
+      internalID: -3323787600059282451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 878
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b284340217a580800000000000000
+      internalID: -8816057936284305298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0826fe6a621cfda0800000000000000
+      internalID: -5909828362679474161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1392
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087c9dc21e6d7d10800000000000000
+      internalID: 2124975626226792459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1388
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74f93e42d5648a0800000000000000
+      internalID: -6321262613948839981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 5
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efae5fcbbaa1ccb0800000000000000
+      internalID: -4845404000459247644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_10
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1375
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df82e853c9e900b0800000000000000
+      internalID: -5761817223024701479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1305
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd227fb305ecad0800000000000000
+      internalID: -2680116509759316693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b3cad7a5f93770800000000000000
+      internalID: 8591167865464533944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8e4fc50bca0790800000000000000
+      internalID: -7563009398402020470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1198
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308cec7790deb2620800000000000000
+      internalID: 2750552622360348675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_15
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1213
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c299550ec2430f0800000000000000
+      internalID: -1138235463797494738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1200
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1cb8f8ba9a02da0800000000000000
+      internalID: -5971586551580474966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1167
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9976f7dd0e970f980800000000000000
+      internalID: -8507165689407117415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_18
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1168
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148ebc84ce6e7740800000000000000
+      internalID: 5151676814212367383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1128
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb1f806c2d325540800000000000000
+      internalID: 4995122197515148225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1128
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b22fdbeeab6d680800000000000000
+      internalID: -8730585293059380419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391fe11919c073d60800000000000000
+      internalID: 7869772693197746579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1037
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826fd4038d497030800000000000000
+      internalID: 3492908211120333449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 913
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91cbcabb73674b90800000000000000
+      internalID: -7257722891418222182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 886
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f482e5329ed8450800000000000000
+      internalID: 6092782209014976264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 808
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2171416b3a37e4590800000000000000
+      internalID: -7688080366903224558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 845
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac34325b3fdbe850800000000000000
+      internalID: 6407460340739882159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_27
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 797
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbeba6b3113adeb0800000000000000
+      internalID: -4694385700841460769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 773
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7344d7e8b6465750800000000000000
+      internalID: 6293295289274221439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59725750bc0ae1690800000000000000
+      internalID: -7629483924888672363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 642
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90576fbafd53d1650800000000000000
+      internalID: 6205175096365446409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937a24b6be01b9a0800000000000000
+      internalID: -6219173432552426598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_32
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 160
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b02d37b98580a00800000000000000
+      internalID: 722925164879285092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cd7fa6e3880cf60800000000000000
+      internalID: 8052585935402425461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 112
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6cf53c465a0bf0800000000000000
+      internalID: -357378335099293915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_35
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 98
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6ba2b82f2062c10800000000000000
+      internalID: 2028311922917160701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7e94559b9467da0800000000000000
+      internalID: -5947485197547477032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b7898adba54bca0800000000000000
+      internalID: -6002072632754144499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_38
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 78
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fa9d134e0aefc00800000000000000
+      internalID: 936362674488979276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc752d4a407b68d20800000000000000
+      internalID: 3280510609158985676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 80
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171727d27f363edf0800000000000000
+      internalID: -152168049129918095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic wizard shop bed_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55efdc4e918092990800000000000000
+      internalID: -7410382804555530667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rustic wizard shop bed_0: -7366689354375944418
+      Rustic wizard shop bed_1: 6431679579676626246
+      Rustic wizard shop bed_10: -5761817223024701479
+      Rustic wizard shop bed_11: -2680116509759316693
+      Rustic wizard shop bed_12: 8591167865464533944
+      Rustic wizard shop bed_13: -7563009398402020470
+      Rustic wizard shop bed_14: 2750552622360348675
+      Rustic wizard shop bed_15: -1138235463797494738
+      Rustic wizard shop bed_16: -5971586551580474966
+      Rustic wizard shop bed_17: -8507165689407117415
+      Rustic wizard shop bed_18: 5151676814212367383
+      Rustic wizard shop bed_19: 4995122197515148225
+      Rustic wizard shop bed_2: 6309731315459088397
+      Rustic wizard shop bed_20: -8730585293059380419
+      Rustic wizard shop bed_21: 7869772693197746579
+      Rustic wizard shop bed_22: 3492908211120333449
+      Rustic wizard shop bed_23: -7257722891418222182
+      Rustic wizard shop bed_24: 6092782209014976264
+      Rustic wizard shop bed_25: -7688080366903224558
+      Rustic wizard shop bed_26: 6407460340739882159
+      Rustic wizard shop bed_27: -4694385700841460769
+      Rustic wizard shop bed_28: 6293295289274221439
+      Rustic wizard shop bed_29: -7629483924888672363
+      Rustic wizard shop bed_3: -6128374234127537849
+      Rustic wizard shop bed_30: 6205175096365446409
+      Rustic wizard shop bed_31: -6219173432552426598
+      Rustic wizard shop bed_32: 722925164879285092
+      Rustic wizard shop bed_33: 8052585935402425461
+      Rustic wizard shop bed_34: -357378335099293915
+      Rustic wizard shop bed_35: 2028311922917160701
+      Rustic wizard shop bed_36: -5947485197547477032
+      Rustic wizard shop bed_37: -6002072632754144499
+      Rustic wizard shop bed_38: 936362674488979276
+      Rustic wizard shop bed_39: 3280510609158985676
+      Rustic wizard shop bed_4: -3323787600059282451
+      Rustic wizard shop bed_40: -152168049129918095
+      Rustic wizard shop bed_41: -7410382804555530667
+      Rustic wizard shop bed_5: -8816057936284305298
+      Rustic wizard shop bed_6: -5909828362679474161
+      Rustic wizard shop bed_7: 2124975626226792459
+      Rustic wizard shop bed_8: -6321262613948839981
+      Rustic wizard shop bed_9: -4845404000459247644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
