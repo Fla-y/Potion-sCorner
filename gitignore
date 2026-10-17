@@ -1,0 +1,70 @@
+# Place beside Assets/, Packages/ and ProjectSettings/.
+
+# Unity caches and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.utmp/
+
+# Build output and captures
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE caches and generated project files
+.vs/
+.idea/
+.consulo/
+.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Debug metadata only: keep all other Unity .meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Logs, temporary files and crash reports
+*.log
+*.tmp
+/sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# Blender backup files
+*.blend1
+*.blend1.meta
+*.blend2
+*.blend2.meta
+
+# Generated Rider integration
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Generated test scenes
+InitTestScene*.unity*
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Keep Assets/, Packages/, ProjectSettings/ and their source metadata.
+# Do not add a blanket *.meta, *.asset, *.unity, *.png or *.dll rule.
