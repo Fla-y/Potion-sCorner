@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 3575bf4813ff9ee4d9eb99c5b110cc94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5313063564213421257
+    second: Top-Down Red Rural Mailbox_0
+  - first:
+      213: 5291900858954318194
+    second: Top-Down Red Rural Mailbox_1
+  - first:
+      213: -7206736948377872283
+    second: Top-Down Red Rural Mailbox_2
+  - first:
+      213: -2548555591336796254
+    second: Top-Down Red Rural Mailbox_3
+  - first:
+      213: 3143111121149704492
+    second: Top-Down Red Rural Mailbox_4
+  - first:
+      213: -2079390034238803117
+    second: Top-Down Red Rural Mailbox_5
+  - first:
+      213: 3457483988692996537
+    second: Top-Down Red Rural Mailbox_6
+  - first:
+      213: -5152601452204381492
+    second: Top-Down Red Rural Mailbox_7
+  - first:
+      213: -3672792486049307604
+    second: Top-Down Red Rural Mailbox_8
+  - first:
+      213: 2983249033841955786
+    second: Top-Down Red Rural Mailbox_9
+  - first:
+      213: -4653724141140865043
+    second: Top-Down Red Rural Mailbox_10
+  - first:
+      213: 4964026576797073453
+    second: Top-Down Red Rural Mailbox_11
+  - first:
+      213: 5228935423473803477
+    second: Top-Down Red Rural Mailbox_12
+  - first:
+      213: -4477296910296727766
+    second: Top-Down Red Rural Mailbox_13
+  - first:
+      213: 671831981949607615
+    second: Top-Down Red Rural Mailbox_14
+  - first:
+      213: -3243416827469007132
+    second: Top-Down Red Rural Mailbox_15
+  - first:
+      213: -5529602308900773196
+    second: Top-Down Red Rural Mailbox_16
+  - first:
+      213: -982412453881464643
+    second: Top-Down Red Rural Mailbox_17
+  - first:
+      213: -2868556305674520525
+    second: Top-Down Red Rural Mailbox_18
+  - first:
+      213: -6353876264787369697
+    second: Top-Down Red Rural Mailbox_19
+  - first:
+      213: 5350223783560497899
+    second: Top-Down Red Rural Mailbox_20
+  - first:
+      213: 2832272863125151915
+    second: Top-Down Red Rural Mailbox_21
+  - first:
+      213: -8805731611382402590
+    second: Top-Down Red Rural Mailbox_22
+  - first:
+      213: -5738004863385987921
+    second: Top-Down Red Rural Mailbox_23
+  - first:
+      213: 3837293599499673230
+    second: Top-Down Red Rural Mailbox_24
+  - first:
+      213: 1525711312395055613
+    second: Top-Down Red Rural Mailbox_25
+  - first:
+      213: -3345457410724517118
+    second: Top-Down Red Rural Mailbox_26
+  - first:
+      213: -99398046875517891
+    second: Top-Down Red Rural Mailbox_27
+  - first:
+      213: 2902979836508192670
+    second: Top-Down Red Rural Mailbox_28
+  - first:
+      213: 7381754006570733021
+    second: Top-Down Red Rural Mailbox_29
+  - first:
+      213: -4039704854468887725
+    second: Top-Down Red Rural Mailbox_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_0
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1171
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4030e692bcbb940800000000000000
+      internalID: 5313063564213421257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1211
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2718e842bcb907940800000000000000
+      internalID: 5291900858954318194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1155
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568114aade68cfb90800000000000000
+      internalID: -7206736948377872283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1240
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd8084136b1acd0800000000000000
+      internalID: -2548555591336796254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1211
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2935b969e29e9b20800000000000000
+      internalID: 3143111121149704492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_5
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1209
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35375bbe7c58423e0800000000000000
+      internalID: -2079390034238803117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1211
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b195a28e537bff20800000000000000
+      internalID: 3457483988692996537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1244
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca223467484e78b0800000000000000
+      internalID: -5152601452204381492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1221
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24ae4771be970dc0800000000000000
+      internalID: -3672792486049307604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1161
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac35daab031a66920800000000000000
+      internalID: 2983249033841955786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_10
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1205
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def83a4dc86aa6fb0800000000000000
+      internalID: -4653724141140865043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1169
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20869dfed3c3e440800000000000000
+      internalID: 4964026576797073453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1196
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0ec954019e09840800000000000000
+      internalID: 5228935423473803477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1195
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3fcb8e227dd1c0800000000000000
+      internalID: -4477296910296727766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1171
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe5ad8c0a3d25900800000000000000
+      internalID: 671831981949607615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1165
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67f2c64911df2d0800000000000000
+      internalID: -3243416827469007132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b22ac44ff7e243b0800000000000000
+      internalID: -5529602308900773196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_17
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1163
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8b9770415cd52f0800000000000000
+      internalID: -982412453881464643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_18
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1163
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338301efc37d038d0800000000000000
+      internalID: -2868556305674520525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1165
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f112092933f72d7a0800000000000000
+      internalID: -6353876264787369697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1057
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea48f73f20df3a40800000000000000
+      internalID: 5350223783560497899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_21
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 801
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ad89b9214e4720800000000000000
+      internalID: 2832272863125151915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1bf1411c1cbc580800000000000000
+      internalID: -8805731611382402590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 749
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa41a6e5af28e50b0800000000000000
+      internalID: -5738004863385987921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 759
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ede09a23ec04530800000000000000
+      internalID: 3837293599499673230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df13a15ea5a6c2510800000000000000
+      internalID: 1525711312395055613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_26
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 177
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b219eb53c8291d0800000000000000
+      internalID: -3345457410724517118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_27
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 191
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfd94c00ede9ef0800000000000000
+      internalID: -99398046875517891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 128
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3139d7c4794820800000000000000
+      internalID: 2902979836508192670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_29
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 130
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd07f4a822417660800000000000000
+      internalID: 7381754006570733021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down Red Rural Mailbox_30
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf5ff86d510f7c0800000000000000
+      internalID: -4039704854468887725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Top-Down Red Rural Mailbox_0: 5313063564213421257
+      Top-Down Red Rural Mailbox_1: 5291900858954318194
+      Top-Down Red Rural Mailbox_10: -4653724141140865043
+      Top-Down Red Rural Mailbox_11: 4964026576797073453
+      Top-Down Red Rural Mailbox_12: 5228935423473803477
+      Top-Down Red Rural Mailbox_13: -4477296910296727766
+      Top-Down Red Rural Mailbox_14: 671831981949607615
+      Top-Down Red Rural Mailbox_15: -3243416827469007132
+      Top-Down Red Rural Mailbox_16: -5529602308900773196
+      Top-Down Red Rural Mailbox_17: -982412453881464643
+      Top-Down Red Rural Mailbox_18: -2868556305674520525
+      Top-Down Red Rural Mailbox_19: -6353876264787369697
+      Top-Down Red Rural Mailbox_2: -7206736948377872283
+      Top-Down Red Rural Mailbox_20: 5350223783560497899
+      Top-Down Red Rural Mailbox_21: 2832272863125151915
+      Top-Down Red Rural Mailbox_22: -8805731611382402590
+      Top-Down Red Rural Mailbox_23: -5738004863385987921
+      Top-Down Red Rural Mailbox_24: 3837293599499673230
+      Top-Down Red Rural Mailbox_25: 1525711312395055613
+      Top-Down Red Rural Mailbox_26: -3345457410724517118
+      Top-Down Red Rural Mailbox_27: -99398046875517891
+      Top-Down Red Rural Mailbox_28: 2902979836508192670
+      Top-Down Red Rural Mailbox_29: 7381754006570733021
+      Top-Down Red Rural Mailbox_3: -2548555591336796254
+      Top-Down Red Rural Mailbox_30: -4039704854468887725
+      Top-Down Red Rural Mailbox_4: 3143111121149704492
+      Top-Down Red Rural Mailbox_5: -2079390034238803117
+      Top-Down Red Rural Mailbox_6: 3457483988692996537
+      Top-Down Red Rural Mailbox_7: -5152601452204381492
+      Top-Down Red Rural Mailbox_8: -3672792486049307604
+      Top-Down Red Rural Mailbox_9: 2983249033841955786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

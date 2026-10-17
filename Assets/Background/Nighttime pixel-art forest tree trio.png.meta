@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: dae1c4ceed599ea488687f9a1c681ebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -672877246796918629
+    second: Nighttime pixel-art forest tree trio_0
+  - first:
+      213: -3966131783461657825
+    second: Nighttime pixel-art forest tree trio_1
+  - first:
+      213: -7424744037154046298
+    second: Nighttime pixel-art forest tree trio_2
+  - first:
+      213: 3172770718176501385
+    second: Nighttime pixel-art forest tree trio_3
+  - first:
+      213: 5682797301697744326
+    second: Nighttime pixel-art forest tree trio_4
+  - first:
+      213: 934812421131165366
+    second: Nighttime pixel-art forest tree trio_5
+  - first:
+      213: -4611504707108686179
+    second: Nighttime pixel-art forest tree trio_6
+  - first:
+      213: 3205996798574440298
+    second: Nighttime pixel-art forest tree trio_7
+  - first:
+      213: -9093899128939382628
+    second: Nighttime pixel-art forest tree trio_8
+  - first:
+      213: -5103831647937229049
+    second: Nighttime pixel-art forest tree trio_9
+  - first:
+      213: 576119451766599433
+    second: Nighttime pixel-art forest tree trio_10
+  - first:
+      213: -5878205377123874098
+    second: Nighttime pixel-art forest tree trio_11
+  - first:
+      213: -5844873652306247489
+    second: Nighttime pixel-art forest tree trio_12
+  - first:
+      213: -6630289047527241522
+    second: Nighttime pixel-art forest tree trio_13
+  - first:
+      213: -4648951841189691658
+    second: Nighttime pixel-art forest tree trio_14
+  - first:
+      213: 1219617890903282440
+    second: Nighttime pixel-art forest tree trio_15
+  - first:
+      213: -7299873506756716885
+    second: Nighttime pixel-art forest tree trio_16
+  - first:
+      213: 372241903468523504
+    second: Nighttime pixel-art forest tree trio_17
+  - first:
+      213: 3649574420017554311
+    second: Nighttime pixel-art forest tree trio_18
+  - first:
+      213: 8932098921517735940
+    second: Nighttime pixel-art forest tree trio_19
+  - first:
+      213: 4268075172727168789
+    second: Nighttime pixel-art forest tree trio_20
+  - first:
+      213: 5998116861595630592
+    second: Nighttime pixel-art forest tree trio_21
+  - first:
+      213: -2901915027637909145
+    second: Nighttime pixel-art forest tree trio_22
+  - first:
+      213: 6702580863824534357
+    second: Nighttime pixel-art forest tree trio_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 734
+        height: 736
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b901a3785b579a6f0800000000000000
+      internalID: -672877246796918629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 777
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a16a082875f8c0800000000000000
+      internalID: -3966131783461657825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 760
+        width: 69
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aebb3dd2a206f890800000000000000
+      internalID: -7424744037154046298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 585
+        height: 812
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98edbaa7822f70c20800000000000000
+      internalID: 3172770718176501385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 758
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd0e32890a5dde40800000000000000
+      internalID: 5682797301697744326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_5
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 720
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5525b1fe19fc00800000000000000
+      internalID: 934812421131165366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 716
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96beb4d6e4a000c0800000000000000
+      internalID: -4611504707108686179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_7
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 696
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fa11a2a1dfd7c20800000000000000
+      internalID: 3205996798574440298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_8
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 637
+        width: 118
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98755c7ceafbc180800000000000000
+      internalID: -9093899128939382628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_9
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 647
+        width: 60
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0e4f482c8b29b0800000000000000
+      internalID: -5103831647937229049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_10
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 619
+        width: 92
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fadb6c699cef700800000000000000
+      internalID: 576119451766599433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_11
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 680
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca8db38a5b6c6ea0800000000000000
+      internalID: -5878205377123874098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 679
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00f357166d2eea0800000000000000
+      internalID: -5844873652306247489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_13
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 629
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8c9f37d3b7cf3a0800000000000000
+      internalID: -6630289047527241522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_14
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 597
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe7dff7eea9b7fb0800000000000000
+      internalID: -4648951841189691658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_15
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 528
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803500d8204fce010800000000000000
+      internalID: 1219617890903282440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_16
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 524
+        width: 15
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba61b74d8b3a1ba90800000000000000
+      internalID: -7299873506756716885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_17
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 0
+        width: 569
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffa1caf9087a2500800000000000000
+      internalID: 372241903468523504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_18
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 242
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783af764994e5a230800000000000000
+      internalID: 3649574420017554311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e6b315a035fb70800000000000000
+      internalID: 8932098921517735940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 79
+        width: 44
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f1111a1cf3b3b30800000000000000
+      internalID: 4268075172727168789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 40
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c30b891879d3350800000000000000
+      internalID: 5998116861595630592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769464948a35ab7d0800000000000000
+      internalID: -2901915027637909145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nighttime pixel-art forest tree trio_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b979aa8c9540d50800000000000000
+      internalID: 6702580863824534357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 626db81cf73bd044082ce51980872dd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Nighttime pixel-art forest tree trio_0: -672877246796918629
+      Nighttime pixel-art forest tree trio_1: -3966131783461657825
+      Nighttime pixel-art forest tree trio_10: 576119451766599433
+      Nighttime pixel-art forest tree trio_11: -5878205377123874098
+      Nighttime pixel-art forest tree trio_12: -5844873652306247489
+      Nighttime pixel-art forest tree trio_13: -6630289047527241522
+      Nighttime pixel-art forest tree trio_14: -4648951841189691658
+      Nighttime pixel-art forest tree trio_15: 1219617890903282440
+      Nighttime pixel-art forest tree trio_16: -7299873506756716885
+      Nighttime pixel-art forest tree trio_17: 372241903468523504
+      Nighttime pixel-art forest tree trio_18: 3649574420017554311
+      Nighttime pixel-art forest tree trio_19: 8932098921517735940
+      Nighttime pixel-art forest tree trio_2: -7424744037154046298
+      Nighttime pixel-art forest tree trio_20: 4268075172727168789
+      Nighttime pixel-art forest tree trio_21: 5998116861595630592
+      Nighttime pixel-art forest tree trio_22: -2901915027637909145
+      Nighttime pixel-art forest tree trio_23: 6702580863824534357
+      Nighttime pixel-art forest tree trio_3: 3172770718176501385
+      Nighttime pixel-art forest tree trio_4: 5682797301697744326
+      Nighttime pixel-art forest tree trio_5: 934812421131165366
+      Nighttime pixel-art forest tree trio_6: -4611504707108686179
+      Nighttime pixel-art forest tree trio_7: 3205996798574440298
+      Nighttime pixel-art forest tree trio_8: -9093899128939382628
+      Nighttime pixel-art forest tree trio_9: -5103831647937229049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

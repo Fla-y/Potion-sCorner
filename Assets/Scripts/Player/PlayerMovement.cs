@@ -13,14 +13,13 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 movement;
     private Vector2 facingDirection = Vector2.down;
 
-    private static readonly int IsMoving =
-        Animator.StringToHash("IsMoving");
+    private static readonly int IsMoving = Animator.StringToHash("IsMoving");
 
-    private static readonly int DirectionX =
-        Animator.StringToHash("DirectionX");
+    private static readonly int DirectionX = Animator.StringToHash("DirectionX");
 
-    private static readonly int DirectionY =
-        Animator.StringToHash("DirectionY");
+    private static readonly int DirectionY = Animator.StringToHash("DirectionY");
+    public bool MovementEnabled { get; private set; } = true;
+
 
     private void Awake()
     {
@@ -38,8 +37,6 @@ public class PlayerMovement : MonoBehaviour
 
         if (isMoving)
         {
-            // Scegli una delle quattro animazioni.
-            // In diagonale diamo priorità alla direzione orizzontale.
             if (Mathf.Abs(input.x) >= Mathf.Abs(input.y))
             {
                 facingDirection = new Vector2(Mathf.Sign(input.x), 0f);
@@ -57,7 +54,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        body.linearVelocity = movement * moveSpeed;
+        body.linearVelocity = MovementEnabled ? movement * moveSpeed : Vector2.zero;
     }
 
     private Vector2 ReadInput()
@@ -88,6 +85,14 @@ public class PlayerMovement : MonoBehaviour
             return dpadInput;
 
         return gamepad.leftStick.ReadValue();
+    }
+
+    public void SetMovementEnabled(bool value)
+    {
+        MovementEnabled = value;
+        movement = Vector2.zero;
+        body.linearVelocity = Vector2.zero;
+        animator.SetBool(IsMoving, false);
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
